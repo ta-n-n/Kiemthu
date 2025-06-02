@@ -1,7 +1,7 @@
 # Thực hành kiểm thử tự động End-to-End với Cypress
 
-- **Họ tên:** Mạc Anh Đức 
-- **MSSV:** BIT220221
+- **Họ tên:**Vũ Thiện Tân
+- **MSSV:** BIT22047
 
 
 ---
